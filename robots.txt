@@ -1,0 +1,8 @@
+# robots.txt — Seoly Digital Ltd
+# https://www.seoly.co.uk/
+
+User-agent: *
+Allow: /
+
+# Sitemap location — submit this URL in Google Search Console
+Sitemap: https://www.seoly.co.uk/sitemap.xml
